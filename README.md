@@ -11,4 +11,4 @@ How to run?
 > python Netflix.py
 ```
 
-* *  The chromedriver.exe version may differ to your current browser or my browser, it's recommended to download chromedriver.exe according to your browser version by click on [this link](https://chromedriver.chromium.org/downloads)
+***The chromedriver.exe version may differ to your current browser or my browser, it's recommended to download chromedriver.exe according to your browser version by click on [this link](https://chromedriver.chromium.org/downloads)
